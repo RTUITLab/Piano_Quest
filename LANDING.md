@@ -14,10 +14,30 @@ Piano VR
 ---
 
 # Images
-* ![описание](Images/pq1.png)
-* ![описание](Images/pq2.png)
-* ![описание](Images/pq3.png)
-* ![описание](Images/pq4.png)
-* ![описание](Images/pq5.png)
+* ![](Images/pq1.png)
+* ![](Images/pq2.png)
+* ![](Images/pq3.png)
+* ![](Images/pq4.png)
+* ![](Images/pq5.png)
+
+---
+
+# Tags
+* VR
+* Education
+---
+# Tech
+* Unity
+* C#
+* Oculus Integration
+---
+# Developers
+* Пушкин А.А.
+---
+# Site
+---
+# SourceCode
+| name | link |
+| GitHub | https://github.com/pushkinman/Piano_Quest |
 
 ---
