@@ -37,6 +37,6 @@ Piano VR
 # SourceCode
 | name | link |
 | - | - |
-| GitHub | https://github.com/pushkinman/Piano_Quest |
+| GitHub | https://github.com/RTUITLab/Piano_Quest |
 
 ---
