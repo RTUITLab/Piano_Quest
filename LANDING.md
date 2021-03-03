@@ -14,11 +14,11 @@ Piano VR
 ---
 
 # Images
-* ![](Images/pq1.png)
-* ![](Images/pq2.png)
-* ![](Images/pq3.png)
-* ![](Images/pq4.png)
-* ![](Images/pq5.png)
+* ![](Images/pq1.PNG)
+* ![](Images/pq2.PNG)
+* ![](Images/pq3.PNG)
+* ![](Images/pq4.PNG)
+* ![](Images/pq5.PNG)
 
 ---
 
